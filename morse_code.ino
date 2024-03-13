@@ -1,6 +1,18 @@
 /*
-  Task 1.1P
-  Morse Code
+  SIT210 - Task 1.1P
+  Mubasher Fareed
+  StudentID: 215426559
+  
+  Morse Code of my first name
+
+  "--",     // M
+  "..-",    // U
+  "-...",   // B
+  ".-",     // A
+  "...",    // S
+  "....",   // H
+  ".",      // E
+  ".-.",    // R  
 */
 
 const int buttonPin = 3;  // Pushbutton connected to pin 3
